@@ -1,3 +1,10 @@
+
+Step 1 : Add data in roles_tables
+
+INSERT INTO `roles_tables` (`id`, `role_name`, `created_at`, `updated_at`) VALUES (NULL, 'Admin', '2021-03-04 00:00:00', '2021-03-04 00:00:00'), (NULL, 'Devloper', NULL, NULL);
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
