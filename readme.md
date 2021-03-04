@@ -3,6 +3,8 @@ Step 1 : Add data in roles_tables
 
 INSERT INTO `roles_tables` (`id`, `role_name`, `created_at`, `updated_at`) VALUES (NULL, 'Admin', '2021-03-04 00:00:00', '2021-03-04 00:00:00'), (NULL, 'Devloper', NULL, NULL);
 
+![image](https://user-images.githubusercontent.com/47350727/109977940-5d71d280-7d23-11eb-9e14-d792588f206d.png)
+![image](https://user-images.githubusercontent.com/47350727/109977963-62cf1d00-7d23-11eb-9082-34c483953479.png)
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
